@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{Suzuki2010}
+Suzuki, H., Yano, H., Brown, C.~J., and Top, E.~M. (2010)
+Predicting plasmid promiscuity based on genomic signature.
+{\em J Bacteriol,} {\bf 192}(22), 6045--55.
+
+\bibitem{vanPassel2006}
+van Passel, M.~W., Kuramae, E.~E., Luyf, A.~C., Bart, A., and Boekhout, T.
+  (2006)
+The reach of the genome signature in prokaryotes.
+{\em BMC Evol Biol,} {\bf 6}(1), 84.
+
+\bibitem{Moreno2008a}
+Moreno-Hagelsieb, G. and Latimer, K. (2008)
+Choosing {BLAST} options for better detection of orthologs as reciprocal best
+  hits.
+{\em Bioinformatics,} {\bf 24}(3), 319--24.
+
+\bibitem{Camacho2009}
+Camacho, C., Coulouris, G., Avagyan, V., Ma, N., Papadopoulos, J., Bealer, K.,
+  and Madden, T.~L. (2009)
+{BLAST+}: architecture and applications.
+{\em BMC Bioinformatics,} {\bf 10}, 421.
+
+\end{thebibliography}
