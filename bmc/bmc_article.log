@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  7 FEB 2013 13:20
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  7 FEB 2013 13:41
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -346,37 +346,36 @@ Overfull \hbox (9.99998pt too wide) in paragraph at lines 159--159
 [1
 
 {/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./bmc_article.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 7.
-
-) [2] (./bmc_article.aux) ) 
+(./bmc_article.bbl) [2] (./bmc_article.aux) ) 
 Here is how much of TeX's memory you used:
- 799 strings out of 493747
- 9138 string characters out of 3143546
- 58789 words of memory out of 3000000
- 4123 multiletter control sequences out of 15000+200000
- 10263 words of font info for 36 fonts, out of 3000000 for 9000
+ 810 strings out of 493747
+ 9218 string characters out of 3143546
+ 60789 words of memory out of 3000000
+ 4132 multiletter control sequences out of 15000+200000
+ 10916 words of font info for 38 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 29i,8n,21p,185b,240s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2010/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr6.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmss10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmss12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmssbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy6.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-t10.pfb>
-Output written on bmc_article.pdf (2 pages, 127902 bytes).
+ 29i,8n,21p,185b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2010/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2010/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2010/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmss10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmss12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmss8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti9.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb>
+Output written on bmc_article.pdf (2 pages, 179532 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
