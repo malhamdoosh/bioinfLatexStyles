@@ -1,0 +1,192 @@
+%% LyX 2.0.4 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[english]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{babel}
+\begin{document}
+
+\title{Data Descriptor Title (110 character maximum, inc. spaces)}
+
+
+\author{Firstname Lastname\textsuperscript{1}, Firstname
+Lastname\textsuperscript{2{*}}}
+
+\maketitle
+1. An affiliation 2. A different affiliation {*}corresponding author(s):
+Firstname Lastname (email@address)
+\begin{abstract}
+This is a manuscript template for Data Descriptor submissions to \emph{Scientific
+Data} (http://www.nature.com/scientificdata). The abstract must be
+no longer than 170 words, and should succinctly describe the study,
+the assay(s) performed, the resulting data, and the reuse potential,
+but should not make any claims regarding new scientific findings.
+No references are allowed in this section. 
+\end{abstract}
+
+\section*{Background \& Summary}
+
+(700 words maximum) An overview of the study design, the assay(s)
+performed, and the created data, including any background information
+needed to put this study in the context of previous work and the literature.
+The section should also briefly outline the broader goals that motivated
+the creation of this dataset and the potential reuse value. We also
+encourage authors to include a figure that provides a schematic overview
+of the study and assay(s) design. This section and the other main
+body sections of the manuscript should include citations to the literature
+as needed \cite{cite1, cite2}. References should be included within the manuscript file itself as our
+system cannot accept BibTeX bibliography files. Authors who wish to use BibTeX to
+prepare their references should therefore copy the reference list from the .bbl
+file that BibTeX generates and paste it into the main manuscript .tex file (and
+delete the associated \textbackslash{}bibliography and
+\textbackslash{}bibliographystyle commands).
+
+
+\section*{Methods }
+
+This section should include detailed text describing the methods used
+in the study and assay(s), and the processing steps leading to the
+production of the data files, including any computational analyses
+(e.g. normalization, image feature extraction). These methods should
+be described in enough detail to allow other researchers to interpret
+and repeat, if required, the study and assay(s). Authors are encouraged
+to cite previous descriptions of the methods under use, but ideally
+the methods descriptions should be complete enough for others to understand
+and reproduce the methods and processing steps without referring to
+associated publications. In principle, fundamentally new methods should
+not be presented for the first time in Data Descriptors, and we may
+choose to decline publication of a Data Descriptor until any novel
+methods or techniques are published in an appropriate research or
+methods-focused journal article. 
+
+
+\section*{Data Records }
+
+Please explain each data record associated with this work, including
+the repository where this information is stored, and an overview of
+the data files and their formats. Each external data record should
+be cited using the data citation format explained at the end of this
+template. 
+
+
+\section*{Technical Validation }
+
+This section presents any experiments or analyses that are needed
+to support the technical quality of the dataset. This section may
+be supported by up figures and tables, as needed. This is a required
+section; authors must present information justifying the reliability
+of their data.
+
+
+\section*{Usage Notes}
+
+Brief instructions that may help other researchers reuse these dataset.
+This is an optional section, but strongly encouraged when helpful
+to readers. This may include discussion of software packages that
+are suitable for analyzing the assay data files, suggested downstream
+processing steps (e.g. normalization, etc.), or tips for integrating
+or comparing this with other datasets. If needed, authors are encouraged
+to upload code, programs, or data processing workflows as Supplementary
+Information, when they may help others analyse the data.
+
+For studies involving privacy or safety controls on public access
+to the data, this section should describe in detail these controls,
+including how authors can apply to access the data, and what criteria
+will be used to determine who may access the data, and any limitations
+on data use. 
+
+
+\section*{Acknowledgements }
+
+Text acknowledging non-author contributors. Acknowledgements should
+be brief, and should not include thanks to anonymous referees and
+editors, or effusive comments. Grant or contribution numbers may be
+acknowledged. Author contributions Please describe briefly the contributions
+of each author to this work on a separate line. 
+
+AK did this and that. 
+
+BG did this and that and the other. 
+
+
+\section*{Competing financial interests }
+
+A competing financial interests statement is required for all accepted
+papers published in \emph{Scientific Data}. If none exist simply write,
+``The author(s) declare no competing financial interests''.
+
+
+\section*{Figures Legends}
+
+Figure should be referred to using a consistent numbering scheme through
+the entire Data Descriptor. For initial submissions, authors may choose
+to supply this document as a single PDF with embedded figures, but
+separate figure image files must be provided for revisions and accepted
+manuscripts. In most cases, a Data Descriptor should not contain more
+than three figures, but more may be allowed when needed. We discourage
+the inclusion of figures in the Supplementary Information \textendash{}
+all key figures should be included here in the main Figure section. 
+
+Figure legends begin with a brief title sentence for the whole figure
+and continue with a short description of what is shown in each panel,
+as well as explaining any symbols used. Legend must total no more
+than 350 words, and may contain literature references. 
+
+
+\section*{Tables}
+
+Tables supporting the Data Descriptor. These can provide summary information
+(sample numbers, demographics, etc.), but they should generally not
+be used to present primary data (i.e. measurements). Tables containing
+primary data should be submitted to an appropriate data repository. 
+
+Tables may be provided within the \LaTeX{} document or as separate
+files (tab-delimited text or Excel files). Legends, where needed,
+should be included here. Generally, a Data Descriptor should have
+fewer than ten Tables, but more may be allowed when needed. Tables
+may be of any size, but only Tables which fit onto a single printed
+page will be included in the PDF version of the article (up to a maximum
+of three). 
+
+
+\section*{Supplementary Information}
+
+Names and short legends for each supporting file. Supplementary Information
+may include code and workflows, media content (images, videos, etc.),
+and any other files required to support the data description or to
+help others reuse the data. Primary data files should be stored in
+an external data repository, not the Supplementary Information section.
+In most cases, the Supplementary Information should not contain text
+documents or supplemental figures \textendash{} all textual information
+and figures that are central to the Data Descriptor should be included
+in the main document. The Methods, Technical Validation, and Usage
+Notes sections are all of unrestricted length. 
+
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{cite1}
+\bibinfo{author}{Califano, A.}, \bibinfo{author}{Butte, A.~J.},
+  \bibinfo{author}{Friend, S.}, \bibinfo{author}{Ideker, T.} \&
+  \bibinfo{author}{Schadt, E.}
+\newblock \bibinfo{title}{{Leveraging models of cell regulation and GWAS data
+  in integrative network-based association studies}}.
+\newblock \emph{\bibinfo{journal}{Nature Genetics}}
+  \textbf{\bibinfo{volume}{44}}, \bibinfo{pages}{841--847}
+  (\bibinfo{year}{2012}).
+
+\bibitem{cite2}
+\bibinfo{author}{Wang, R.} \emph{et~al.}
+\newblock \bibinfo{title}{{PRIDE Inspector: a tool to visualize and validate MS
+  proteomics data.}}
+\newblock \emph{\bibinfo{journal}{Nature Biotechnology}}
+  \textbf{\bibinfo{volume}{30}}, \bibinfo{pages}{135--137}
+  (\bibinfo{year}{2012}).
+
+\end{thebibliography}
+
+\end{document}

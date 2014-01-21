@@ -28,3 +28,6 @@ Notes on the applicability and provenance of files for each journal are as follo
 - [Bioinformatics instructions for authors using latex](http://www.oxfordjournals.org/our_journals/bioinformatics/for_authors/submission_online.html)
 - [Original Bioinformatics latex template and style files](http://www.oxfordjournals.org/our_journals/bioinformatics/for_authors/bioinfo01.zip) Note: this template is not structured to use an external bibtex file.
 - A modified template was made by Casey Bergman based on Gabriel Moreno-Hagelsieb's design and is structured to use an external bibtex file and Schneider's [Bioinformatics bibtex style file](http://schneider.ncifcrf.gov/ftp/bioinformatics.bst) 
+
+### Genetics
+[Original Genetics latex template and style files from Eric Anderson](http://ib.berkeley.edu/labs/slatkin/eriq/latex/index.htm#genetics)
